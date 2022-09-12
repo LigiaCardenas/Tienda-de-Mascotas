@@ -1,0 +1,172 @@
+
+.menu {
+        background:black;
+        color: white;
+        padding: 10px 30px;
+        display:inline-block;
+        text-decoration: none;
+        justify-content: right;
+      }
+
+      
+.menuTitulo {
+    color:black;
+    padding: 10px 30px;
+    display:inline-block;
+    text-decoration: none;
+    font-size: 25px;
+    justify-content: center;
+    width: max-content;
+  }
+      .menu:hover{
+        background:gray;
+      }
+    
+.nav_menu{
+    background: gray;
+    padding: 10px;
+    display: flex;
+    justify-content:space-around;
+}
+
+.banner{
+padding:10px;
+margin: 0%;
+}
+
+.img_Baner{
+    max-width: 100%;
+    max-height: 40%;
+}
+
+.img_Producto{
+    max-width: 50%;
+    max-height: 20%;
+    display: block;
+    margin: 0px auto;
+}
+
+.img_Columna{
+    max-width: 100px;
+    max-height: 100px; 
+    margin: 0%;
+    padding: 0%;
+}
+
+.contenido{
+    background: black;
+    margin: 10px 10px 10px 10px;
+    padding: 100px;
+    color: white;
+    font-size: 50px;
+    justify-content:center;
+}
+
+.contenido01{
+display: inline;
+font-size: 90px;
+}
+
+.contenido02{
+    display: inline;
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0px auto;
+    text-decoration:none;
+}
+
+.columna{
+    background: beige;
+    color: black;
+    padding: 20px;
+    width: 30%;
+    margin: 10px;
+}
+
+.columna01{
+    background: beige;
+    color: black;
+    padding: 20px;
+    width: 29%;
+    margin: 10px;
+}
+
+.columnaTitulo{
+    background: #f5f5dc;
+    color: black;
+    padding: 20px;
+    width: 30%;
+    margin: 10px;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+.padre{
+    display: flex;
+}
+
+footer{
+    background: beige;
+    color: black;
+    padding: 10px 30px;
+
+}
+
+.AlinearCentro{
+    display: block;
+    margin: 10px ;
+    text-align: center;
+    
+}
+
+.img_PiePag{
+    max-width: 10%;
+    max-height: 20%;
+    display: block;
+    margin: 0px auto;
+}
+
+.formulario{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    width: 400px;
+    background: black;
+    padding: 50px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border-radius: 4px;
+    color: #f5f5dc;
+    font-family: "calibri";
+}
+
+.titulo{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color:white;
+    text-align: center;
+}
+
+.controles{
+    width: 100%;
+    background: #f5f5dc;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom :16px ; 
+    border:1px solid beige;
+    font-family: "calibri";
+    font-size: 18px;
+    margin-right: 10px;
+}
+.botones{
+    width: 100%;
+    background: grey;
+    border: none;
+    padding: 5%;
+    border-radius:4px ;
+    margin: 16px 0;
+    font-size: 20px;
+    color: #f5f5dc;
+}
